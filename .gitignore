@@ -1,6 +1,6 @@
 # Custom file ignore
 scripts/localsettings.py
-
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
